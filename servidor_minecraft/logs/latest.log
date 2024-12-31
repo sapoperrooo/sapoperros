@@ -813,3 +813,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 16:29:44.063] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
 [31Dec2024 16:29:46.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn was killed by The Wolf using magic
 [31Dec2024 16:29:46.547] [Server thread/INFO] [tombstone/]: The player clqwn has successfully been saved
+[31Dec2024 16:30:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola was slain by Stroms
+[31Dec2024 16:30:21.708] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 16:30:35.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has reached the goal [Chain Death]
+[31Dec2024 16:30:35.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[31Dec2024 16:30:35.078] [Server thread/INFO] [tombstone/]: The player clqwn has successfully been saved
+[31Dec2024 16:31:10.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[31Dec2024 16:32:25.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn was slain by ola
+[31Dec2024 16:32:25.793] [Server thread/INFO] [tombstone/]: The player clqwn has successfully been saved
+[31Dec2024 16:32:33.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ola lost connection: Disconnected
+[31Dec2024 16:32:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola left the game
+[31Dec2024 16:32:33.045] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ola
+[31Dec2024 16:35:05.948] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[31Dec2024 16:35:06.022] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[31Dec2024 16:35:55.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> q wen server lpm
+[31Dec2024 16:35:58.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Disconnected
+[31Dec2024 16:35:58.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[31Dec2024 16:35:58.342] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client clqwn
+[31Dec2024 16:36:29.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Dec2024 16:36:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 16:36:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 16:36:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 16:36:30.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 16:36:30.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[31Dec2024 16:36:30.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 16:36:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[31Dec2024 16:36:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[31Dec2024 16:36:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[31Dec2024 16:36:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[31Dec2024 16:36:30.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[31Dec2024 16:36:30.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[31Dec2024 16:36:30.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 16:36:30.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[31Dec2024 16:36:30.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[31Dec2024 16:36:30.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[31Dec2024 16:36:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[31Dec2024 16:36:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[31Dec2024 16:36:30.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[31Dec2024 16:36:30.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[31Dec2024 16:36:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[31Dec2024 16:36:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
