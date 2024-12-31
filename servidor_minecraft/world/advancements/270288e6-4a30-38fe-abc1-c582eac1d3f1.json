@@ -136,6 +136,7 @@
       "minecraft:taiga": "2024-12-31 13:45:51 +0000",
       "minecraft:sunflower_plains": "2024-12-31 13:02:07 +0000",
       "minecraft:birch_forest": "2024-12-31 12:34:59 +0000",
+      "minecraft:bamboo_jungle": "2024-12-31 15:36:22 +0000",
       "minecraft:beach": "2024-12-31 12:32:34 +0000",
       "minecraft:dark_forest": "2024-12-31 12:27:03 +0000",
       "minecraft:sparse_jungle": "2024-12-31 14:14:41 +0000",
@@ -413,6 +414,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-31 15:26:19 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-12-31 15:23:59 +0000"
@@ -425,6 +432,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-31 15:28:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2024-12-31 15:19:13 +0000"
@@ -434,6 +447,36 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-31 15:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-31 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_burn": "2024-12-31 15:30:16 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-31 15:29:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 15:30:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-31 15:29:15 +0000"
     },
     "done": true
   },

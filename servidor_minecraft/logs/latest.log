@@ -633,3 +633,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 15:26:10.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola was slain by Magma Cube
 [31Dec2024 15:26:10.848] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
 [31Dec2024 15:26:19.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Suit Up]
+[31Dec2024 15:28:50.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Amateur Archaeologist]
+[31Dec2024 15:29:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Not even afraid of death]
+[31Dec2024 15:29:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Back to childhood]
+[31Dec2024 15:29:35.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Hidden in the Depths]
+[31Dec2024 15:30:16.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [It's not time to tan]
+[31Dec2024 15:30:55.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/10.147.17.129:37044] logged in with entity id 10812 at (589.6338566401982, 63.0, -608.9935204374599)
+[31Dec2024 15:30:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
+[31Dec2024 15:31:04.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11075, l='ServerLevel[world]', x=485.50, y=76.00, z=-607.50]
+[31Dec2024 15:31:08.628] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11084, l='ServerLevel[world]', x=542.50, y=76.00, z=-609.50]
+[31Dec2024 15:31:22.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ola moved wrongly!
+[31Dec2024 15:31:24.554] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of clqwn (18)
+[31Dec2024 15:31:24.555] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to clqwn
+[31Dec2024 15:31:50.129] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11244, l='ServerLevel[world]', x=506.50, y=74.00, z=-601.50]
+[31Dec2024 15:31:51.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 836b708e-46dc-3b7e-95d3-8bf500e24e7e
+[31Dec2024 15:31:52.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 836b708e-46dc-3b7e-95d3-8bf500e24e7e
+[31Dec2024 15:31:52.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player clqwn (836b708e-46dc-3b7e-95d3-8bf500e24e7e) successfully connected to voice chat
+[31Dec2024 15:32:29.477] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11482, l='ServerLevel[world]', x=590.50, y=71.00, z=-589.50]
+[31Dec2024 15:33:18.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Sweet Dreams]
+[31Dec2024 15:33:34.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola tried to swim in lava
+[31Dec2024 15:33:34.663] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 15:33:54.743] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12723, l='ServerLevel[world]', x=487.50, y=76.00, z=-605.50]
+[31Dec2024 15:34:08.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12798, l='ServerLevel[world]', x=485.50, y=76.00, z=-605.50]
+[31Dec2024 15:34:13.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola burned to death
+[31Dec2024 15:34:13.653] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 15:34:22.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13560, l='ServerLevel[world]', x=518.50, y=76.00, z=-608.50]
+[31Dec2024 15:34:31.437] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13694, l='ServerLevel[world]', x=610.50, y=75.00, z=-508.50]
+[31Dec2024 15:34:32.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13737, l='ServerLevel[world]', x=506.50, y=74.00, z=-602.50]
+[31Dec2024 15:34:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola burned to death
+[31Dec2024 15:34:51.766] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 15:35:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> t536 71 -358
+[31Dec2024 15:37:41.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to clqwn: hola
+[31Dec2024 15:37:46.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Dec2024 15:37:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[31Dec2024 15:37:52.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[31Dec2024 15:40:21.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18959, l='ServerLevel[world]', x=611.50, y=73.00, z=-491.50]
+[31Dec2024 15:41:25.329] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20201, l='ServerLevel[world]', x=240.50, y=80.00, z=-710.50]
+[31Dec2024 15:41:54.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20601, l='ServerLevel[world]', x=401.50, y=70.00, z=-627.50]
+[31Dec2024 15:43:22.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn was struck by lightning
+[31Dec2024 15:43:22.199] [Server thread/INFO] [tombstone/]: The player clqwn has successfully been saved
+[31Dec2024 15:43:50.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola was slain by clqwn
+[31Dec2024 15:43:50.081] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 15:46:56.577] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22668, l='ServerLevel[world]', x=466.50, y=71.00, z=-612.50]
+[31Dec2024 15:47:39.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22852, l='ServerLevel[world]', x=520.50, y=76.00, z=-607.50]
+[31Dec2024 15:48:23.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23178, l='ServerLevel[world]', x=280.50, y=74.00, z=-706.50]
+[31Dec2024 15:49:04.726] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23612, l='ServerLevel[world]', x=249.50, y=72.00, z=-753.50]
