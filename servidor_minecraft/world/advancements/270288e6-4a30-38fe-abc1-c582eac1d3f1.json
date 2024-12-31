@@ -133,7 +133,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2024-12-31 12:27:03 +0000"
+      "minecraft:birch_forest": "2024-12-31 12:34:59 +0000",
+      "minecraft:beach": "2024-12-31 12:32:34 +0000",
+      "minecraft:dark_forest": "2024-12-31 12:27:03 +0000",
+      "minecraft:river": "2024-12-31 12:33:52 +0000",
+      "minecraft:forest": "2024-12-31 12:32:24 +0000",
+      "minecraft:plains": "2024-12-31 12:32:54 +0000"
     },
     "done": false
   },
@@ -164,6 +169,54 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-31 12:27:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 12:32:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-31 12:32:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 12:32:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 12:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-31 12:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-31 12:55:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-31 12:56:20 +0000"
     },
     "done": true
   },
