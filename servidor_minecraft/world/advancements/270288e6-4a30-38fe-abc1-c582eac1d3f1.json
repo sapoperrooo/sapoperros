@@ -135,6 +135,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-31 13:45:51 +0000",
       "minecraft:sunflower_plains": "2024-12-31 13:02:07 +0000",
+      "minecraft:cherry_grove": "2024-12-31 16:10:08 +0000",
       "minecraft:birch_forest": "2024-12-31 12:34:59 +0000",
       "minecraft:bamboo_jungle": "2024-12-31 15:36:22 +0000",
       "minecraft:beach": "2024-12-31 12:32:34 +0000",
@@ -142,6 +143,7 @@
       "minecraft:sparse_jungle": "2024-12-31 14:14:41 +0000",
       "minecraft:river": "2024-12-31 12:33:52 +0000",
       "minecraft:stony_shore": "2024-12-31 14:05:05 +0000",
+      "minecraft:dripstone_caves": "2024-12-31 16:13:12 +0000",
       "minecraft:grove": "2024-12-31 15:57:36 +0000",
       "minecraft:forest": "2024-12-31 12:32:24 +0000",
       "minecraft:jungle": "2024-12-31 14:15:21 +0000",
@@ -435,6 +437,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-31 16:09:15 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-31 16:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2024-12-31 15:14:50 +0000"
@@ -456,6 +470,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-31 15:11:07 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight": "2024-12-31 16:11:34 +0000"
     },
     "done": true
   },
