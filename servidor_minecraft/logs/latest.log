@@ -678,3 +678,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 15:47:39.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22852, l='ServerLevel[world]', x=520.50, y=76.00, z=-607.50]
 [31Dec2024 15:48:23.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23178, l='ServerLevel[world]', x=280.50, y=74.00, z=-706.50]
 [31Dec2024 15:49:04.726] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23612, l='ServerLevel[world]', x=249.50, y=72.00, z=-753.50]
+[31Dec2024 15:50:38.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24621, l='ServerLevel[world]', x=444.50, y=75.00, z=-1083.50]
+[31Dec2024 15:50:46.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24729, l='ServerLevel[world]', x=434.50, y=72.00, z=-987.50]
+[31Dec2024 15:53:28.518] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1237, y=75, z=-1115}
+[31Dec2024 15:53:31.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2871ms or 57 ticks behind
+[31Dec2024 15:53:49.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[31Dec2024 15:53:55.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ola> ola
+[31Dec2024 15:55:09.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [This Must be a Sign!]
+[31Dec2024 15:55:24.378] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[31Dec2024 15:55:27.857] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[31Dec2024 15:57:51.592] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[31Dec2024 15:57:51.594] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[31Dec2024 15:57:51.594] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[31Dec2024 15:58:06.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [The Lighthouse]
+[31Dec2024 15:58:09.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [The Lighthouse]
+[31Dec2024 15:58:50.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola was slain by clqwn
+[31Dec2024 15:58:50.704] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 16:06:37.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[31Dec2024 16:09:15.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [A Strange Grave Dust]
+[31Dec2024 16:09:21.494] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[31Dec2024 16:09:21.494] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[31Dec2024 16:09:21.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[31Dec2024 16:09:21.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[31Dec2024 16:09:21.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[31Dec2024 16:09:21.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[31Dec2024 16:09:32.497] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[31Dec2024 16:09:32.498] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[31Dec2024 16:09:32.499] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[31Dec2024 16:09:32.532] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[31Dec2024 16:09:32.549] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[31Dec2024 16:09:32.549] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
