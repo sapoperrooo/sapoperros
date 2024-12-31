@@ -608,3 +608,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 12:25:26.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 836b708e-46dc-3b7e-95d3-8bf500e24e7e
 [31Dec2024 12:25:27.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 836b708e-46dc-3b7e-95d3-8bf500e24e7e
 [31Dec2024 12:25:27.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player clqwn (836b708e-46dc-3b7e-95d3-8bf500e24e7e) successfully connected to voice chat
+[31Dec2024 12:27:02.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ola[/10.147.17.224:49884] logged in with entity id 2017 at (48.5, 70.0, -156.5)
+[31Dec2024 12:27:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola joined the game
+[31Dec2024 12:27:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Christmas]
+[31Dec2024 12:27:02.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Ice and Fire]
+[31Dec2024 12:27:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has completed the challenge [The Undead]
+[31Dec2024 12:27:09.349] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ola (18)
+[31Dec2024 12:27:09.350] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ola
+[31Dec2024 12:27:26.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola was slain by Scarlet Persecutor
+[31Dec2024 12:27:26.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Your First Grave]
+[31Dec2024 12:27:26.311] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 12:27:47.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ola lost connection: Timed out
+[31Dec2024 12:27:47.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola left the game
+[31Dec2024 12:27:47.608] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ola
+[31Dec2024 12:30:01.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn was struck by lightning
+[31Dec2024 12:30:01.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Surge Protector]
+[31Dec2024 12:30:01.352] [Server thread/INFO] [tombstone/]: The player clqwn has successfully been saved
+[31Dec2024 12:31:35.101] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[31Dec2024 12:31:38.139] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[31Dec2024 12:31:43.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ola[/10.147.17.224:50221] logged in with entity id 4839 at (48.5, 70.0, -156.5)
+[31Dec2024 12:31:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola joined the game
+[31Dec2024 12:31:50.561] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ola (18)
+[31Dec2024 12:31:50.562] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ola
+[31Dec2024 12:31:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [clqwn: Teleported ola to clqwn]
+[31Dec2024 12:32:05.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 270288e6-4a30-38fe-abc1-c582eac1d3f1
+[31Dec2024 12:32:06.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 270288e6-4a30-38fe-abc1-c582eac1d3f1
+[31Dec2024 12:32:06.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ola (270288e6-4a30-38fe-abc1-c582eac1d3f1) successfully connected to voice chat
+[31Dec2024 12:32:15.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [The Most Useful Key]
+[31Dec2024 12:32:24.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [clqwn: Teleported ola to clqwn]
+[31Dec2024 12:32:29.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has reached the goal [Here They Come]
+[31Dec2024 12:33:12.885] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5427, l='ServerLevel[world]', x=178.50, y=73.00, z=-466.50]
+[31Dec2024 12:33:35.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ola> tas mute
+[31Dec2024 12:34:12.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola went up in flames
+[31Dec2024 12:34:12.441] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 12:34:23.887] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5914, l='ServerLevel[world]', x=168.50, y=73.00, z=-489.50]
+[31Dec2024 12:34:34.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn moved too quickly! -9.02582441923721,0.07544406518948676,-4.4568431029746876
+[31Dec2024 12:34:50.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/3930, l='ServerLevel[world]', x=233.30, y=64.94, z=-359.30] died, message: 'Beekeeper was slain by Zombie'
+[31Dec2024 12:35:06.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn was burnt to a crisp whilst fighting Scarlet Persecutor
+[31Dec2024 12:35:06.419] [Server thread/INFO] [tombstone/]: The player clqwn has successfully been saved
+[31Dec2024 12:35:09.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn lost connection: Timed out
+[31Dec2024 12:35:09.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn left the game
+[31Dec2024 12:35:09.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client clqwn
+[31Dec2024 12:35:29.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/10.147.17.129:45198] logged in with entity id 6407 at (234.49933191239026, 72.0, -408.4935873788838)
+[31Dec2024 12:35:29.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
+[31Dec2024 12:35:30.673] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of clqwn (18)
+[31Dec2024 12:35:30.674] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to clqwn
