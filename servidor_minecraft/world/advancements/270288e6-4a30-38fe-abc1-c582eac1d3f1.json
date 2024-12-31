@@ -150,6 +150,7 @@
       "minecraft:ocean": "2024-12-31 15:48:20 +0000",
       "minecraft:flower_forest": "2024-12-31 13:01:53 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 15:55:36 +0000",
+      "minecraft:deep_dark": "2024-12-31 16:15:44 +0000",
       "minecraft:savanna": "2024-12-31 14:05:25 +0000",
       "minecraft:plains": "2024-12-31 12:32:54 +0000"
     },
@@ -257,6 +258,8 @@
       "minecraft:skeleton": "2024-12-31 13:38:45 +0000",
       "minecraft:magma_cube": "2024-12-31 15:12:20 +0000",
       "minecraft:piglin_brute": "2024-12-31 15:11:49 +0000",
+      "minecraft:witch": "2024-12-31 16:16:22 +0000",
+      "minecraft:cave_spider": "2024-12-31 16:16:40 +0000",
       "minecraft:piglin": "2024-12-31 15:21:28 +0000",
       "minecraft:zombie": "2024-12-31 13:41:13 +0000",
       "minecraft:drowned": "2024-12-31 13:05:30 +0000"
@@ -419,6 +422,18 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-31 16:15:44 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-31 16:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2024-12-31 15:26:19 +0000"
@@ -437,6 +452,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 16:16:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-31 16:09:15 +0000"
@@ -452,6 +473,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2024-12-31 15:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-31 16:17:20 +0000"
     },
     "done": true
   },

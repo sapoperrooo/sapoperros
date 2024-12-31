@@ -792,3 +792,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 16:19:23.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ola> donde estas
 [31Dec2024 16:19:26.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> tarriba
 [31Dec2024 16:19:27.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> mira mapa
+[31Dec2024 16:21:57.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has made the advancement [Chest Slayer]
+[31Dec2024 16:23:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has made the advancement [Chest Slayer]
+[31Dec2024 16:25:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola was slain by clqwn
+[31Dec2024 16:25:56.632] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 16:26:41.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola tried to swim in lava to escape clqwn
+[31Dec2024 16:26:41.523] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 16:27:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola was slain by clqwn
+[31Dec2024 16:27:56.174] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 16:28:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [clqwn: Teleported clqwn to ola]
+[31Dec2024 16:28:13.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ola> tp
+[31Dec2024 16:28:14.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [clqwn: Teleported ola to clqwn]
+[31Dec2024 16:28:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn was killed by The Wolf using magic
+[31Dec2024 16:28:43.954] [Server thread/INFO] [tombstone/]: The player clqwn has successfully been saved
+[31Dec2024 16:29:01.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola has completed the challenge [I'm not sugar coating it]
+[31Dec2024 16:29:15.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola was killed by The Wolf using magic
+[31Dec2024 16:29:15.512] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 16:29:20.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn has completed the challenge [I'm not sugar coating it]
+[31Dec2024 16:29:44.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.mob.player
+[31Dec2024 16:29:44.063] [Server thread/INFO] [tombstone/]: The player ola has successfully been saved
+[31Dec2024 16:29:46.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn was killed by The Wolf using magic
+[31Dec2024 16:29:46.547] [Server thread/INFO] [tombstone/]: The player clqwn has successfully been saved
