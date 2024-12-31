@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:stack_upgrade_tier_2|true", "sophisticatedbackpacks:stack_upgrade_tier_3|true", "sophisticatedbackpacks:stack_upgrade_tier_1|true", "sophisticatedbackpacks:stack_upgrade_starter_tier|true", "sophisticatedbackpacks:auto_blasting_upgrade|true", "sophisticatedbackpacks:smelting_upgrade|true", "sophisticatedbackpacks:battery_upgrade|true", "sophisticatedbackpacks:smoking_upgrade|true"]
+
