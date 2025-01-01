@@ -134,20 +134,25 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-31 13:45:51 +0000",
+      "minecraft:deep_ocean": "2025-01-01 21:34:19 +0000",
       "minecraft:sunflower_plains": "2024-12-31 13:02:07 +0000",
       "minecraft:cherry_grove": "2024-12-31 16:10:08 +0000",
       "minecraft:birch_forest": "2024-12-31 12:34:59 +0000",
       "minecraft:bamboo_jungle": "2024-12-31 15:36:22 +0000",
       "minecraft:beach": "2024-12-31 12:32:34 +0000",
       "minecraft:dark_forest": "2024-12-31 12:27:03 +0000",
+      "minecraft:mangrove_swamp": "2025-01-01 22:09:57 +0000",
       "minecraft:sparse_jungle": "2024-12-31 14:14:41 +0000",
       "minecraft:river": "2024-12-31 12:33:52 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-01 21:34:20 +0000",
       "minecraft:stony_shore": "2024-12-31 14:05:05 +0000",
       "minecraft:dripstone_caves": "2024-12-31 16:13:12 +0000",
       "minecraft:grove": "2024-12-31 15:57:36 +0000",
       "minecraft:forest": "2024-12-31 12:32:24 +0000",
       "minecraft:jungle": "2024-12-31 14:15:21 +0000",
       "minecraft:ocean": "2024-12-31 15:48:20 +0000",
+      "minecraft:windswept_savanna": "2025-01-01 21:54:14 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-01 22:07:12 +0000",
       "minecraft:flower_forest": "2024-12-31 13:01:53 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 15:55:36 +0000",
       "minecraft:deep_dark": "2024-12-31 16:15:44 +0000",
@@ -218,8 +223,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-01 21:50:53 +0000",
       "cooked_mutton": "2024-12-31 13:22:05 +0000",
-      "bread": "2024-12-31 12:55:24 +0000"
+      "porkchop": "2025-01-01 21:42:58 +0000",
+      "bread": "2024-12-31 12:55:24 +0000",
+      "melon_slice": "2025-01-01 22:16:47 +0000"
     },
     "done": false
   },
@@ -261,6 +269,7 @@
       "minecraft:witch": "2024-12-31 16:16:22 +0000",
       "minecraft:cave_spider": "2024-12-31 16:16:40 +0000",
       "minecraft:piglin": "2024-12-31 15:21:28 +0000",
+      "minecraft:enderman": "2025-01-01 21:54:40 +0000",
       "minecraft:zombie": "2024-12-31 13:41:13 +0000",
       "minecraft:drowned": "2024-12-31 13:05:30 +0000"
     },
@@ -422,15 +431,27 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "deep_dark": "2024-12-31 16:15:44 +0000"
+      "bastion": "2024-12-31 15:11:07 +0000"
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "kill_mimic": "2024-12-31 16:21:57 +0000"
+      "loot_bastion_treasure": "2024-12-31 15:14:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 15:19:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-31 15:23:59 +0000"
     },
     "done": true
   },
@@ -440,129 +461,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-12-31 15:23:59 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2024-12-31 15:58:06 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 16:16:22 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2024-12-31 16:09:15 +0000"
-    },
-    "done": true
-  },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2024-12-31 16:14:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_treasure": "2024-12-31 15:14:50 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat": "2024-12-31 16:29:01 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-12-31 16:17:20 +0000"
-    },
-    "done": true
-  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-31 15:28:50 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/easy_opening": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 15:19:13 +0000"
+      "has_voodoo_poppet": "2024-12-31 15:29:15 +0000"
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-12-31 15:11:07 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "undead_revamp2:nightnight": {
-    "criteria": {
-      "nightnight": "2024-12-31 16:11:34 +0000"
+      "has_enchanted_voodoo_poppet": "2024-12-31 15:29:15 +0000"
     },
     "done": true
   },
@@ -578,39 +491,142 @@
     },
     "done": false
   },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2024-12-31 15:29:15 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/prevent_death_burn": {
     "criteria": {
       "coded_trigger": "2024-12-31 15:30:16 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2024-12-31 15:29:15 +0000"
+      "location0": "2024-12-31 15:58:06 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-31 16:09:15 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight": "2024-12-31 16:11:34 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-31 16:14:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-31 16:15:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 16:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-31 16:17:20 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-31 16:21:57 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-12-31 16:29:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-01 21:52:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-01 22:20:46 +0000",
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 16:32:16 +0000"
+      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
     },
     "done": false
   },
