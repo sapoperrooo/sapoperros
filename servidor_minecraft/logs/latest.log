@@ -598,3 +598,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 17:06:46.227] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [01Jan2025 17:06:46.238] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [01Jan2025 17:12:38.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[01Jan2025 17:22:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[01Jan2025 17:22:32.748] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[01Jan2025 17:22:32.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: clqwn[/10.147.17.129:45626] logged in with entity id 1394 at (1216.845117030432, 90.0, -1566.8832705508435)
+[01Jan2025 17:22:32.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: clqwn joined the game
+[01Jan2025 17:22:35.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[01Jan2025 17:22:45.243] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of clqwn (18)
+[01Jan2025 17:22:45.247] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to clqwn
+[01Jan2025 17:23:07.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 836b708e-46dc-3b7e-95d3-8bf500e24e7e
+[01Jan2025 17:23:09.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 836b708e-46dc-3b7e-95d3-8bf500e24e7e
+[01Jan2025 17:23:09.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player clqwn (836b708e-46dc-3b7e-95d3-8bf500e24e7e) successfully connected to voice chat
