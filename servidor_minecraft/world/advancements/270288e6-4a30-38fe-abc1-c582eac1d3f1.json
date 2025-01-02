@@ -264,14 +264,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-31 13:38:45 +0000",
+      "minecraft:vindicator": "2025-01-01 23:42:50 +0000",
       "minecraft:magma_cube": "2024-12-31 15:12:20 +0000",
       "minecraft:piglin_brute": "2024-12-31 15:11:49 +0000",
+      "minecraft:spider": "2025-01-01 23:56:52 +0000",
       "minecraft:witch": "2024-12-31 16:16:22 +0000",
       "minecraft:cave_spider": "2024-12-31 16:16:40 +0000",
       "minecraft:piglin": "2024-12-31 15:21:28 +0000",
       "minecraft:enderman": "2025-01-01 21:54:40 +0000",
       "minecraft:zombie": "2024-12-31 13:41:13 +0000",
-      "minecraft:drowned": "2024-12-31 13:05:30 +0000"
+      "minecraft:drowned": "2024-12-31 13:05:30 +0000",
+      "minecraft:zombie_villager": "2025-01-01 23:57:08 +0000"
     },
     "done": false
   },
@@ -421,7 +424,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2024-12-31 14:52:58 +0000"
+      "incendium:ash_barrens": "2024-12-31 14:52:58 +0000",
+      "incendium:quartz_flats": "2025-01-02 00:32:46 +0000"
     },
     "done": false
   },
@@ -487,7 +491,8 @@
   },
   "tombstone:adventure/death_master": {
     "criteria": {
-      "has_prevent_burn": "2024-12-31 15:30:16 +0000"
+      "has_prevent_burn": "2024-12-31 15:30:16 +0000",
+      "has_prevent_fall": "2025-01-02 00:02:50 +0000"
     },
     "done": false
   },
@@ -559,76 +564,165 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-01 22:20:46 +0000",
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-01 22:20:46 +0000"
+      "log_spam_fixer": "2025-01-02 00:47:41 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/prevent_death_fall": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 00:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-01 23:53:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-01 23:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-02 00:29:00 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 00:01:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_darkness": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-01 23:54:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-01-02 00:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-02 00:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-02 00:31:59 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry": "2025-01-01 23:16:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-01 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-01-01 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-01-01 23:29:51 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-01-01 23:59:49 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
