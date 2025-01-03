@@ -664,111 +664,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-01-02 19:46:05 +0000"
-    },
-    "done": true
-  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow": "2025-01-02 19:36:38 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_decorative_grave": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_decorative_grave": "2025-01-02 20:18:49 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-01-02 19:58:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-01-02 21:18:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_dark_marble": {
-    "criteria": {
-      "has_ingredient": "2025-01-02 20:17:55 +0000"
+      "crying_obsidian": "2025-01-02 19:46:05 +0000"
     },
     "done": true
   },
@@ -778,27 +682,33 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-01-02 19:58:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-01-02 20:04:37 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_rider": {
+  "tombstone:recipes/from_dark_marble": {
     "criteria": {
-      "location0": "2025-01-02 21:00:09 +0000"
+      "has_ingredient": "2025-01-02 20:17:55 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/rotten_egg": {
+  "tombstone:adventure/create_grave_marble": {
     "criteria": {
-      "bestiary": "2025-01-02 21:18:28 +0000"
+      "has_grave_marble": "2025-01-02 20:17:55 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
+  "tombstone:adventure/create_decorative_grave": {
     "criteria": {
-      "coded_trigger": "2025-01-02 21:02:49 +0000"
+      "has_decorative_grave": "2025-01-02 20:18:49 +0000"
     },
     "done": true
   },
@@ -808,15 +718,123 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-02 21:00:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 21:02:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-01-02 21:15:32 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_marble": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "has_grave_marble": "2025-01-02 20:17:55 +0000"
+      "bestiary": "2025-01-02 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-01-02 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 03:17:03 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-01-03 02:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-03 03:06:46 +0000"
     },
     "done": true
   },
